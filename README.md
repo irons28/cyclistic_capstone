@@ -58,7 +58,7 @@ cyclistic_capstone/
 
 ## 🎥 Project Presentation
 
-📄 **[Click here to download the presentation (PDF)](Cyclistic_Capstone_Presentation.pdf)**  
+📄 **[Download the presentation (PDF)](https://github.com/irons28/cyclistic_capstone/raw/main/Cyclistic_Capstone_Presentation.pdf)**  
 *(Note: GitHub cannot preview this PDF — download to view on your device)*
 
 This PDF includes all key findings, charts, and recommendations from the capstone project.
