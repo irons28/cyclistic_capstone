@@ -10,9 +10,10 @@ This project is part of the **Google Daata Analytics Professional Certificate** 
 ## 📂 Project Structure
 
 cyclistic_capstone/
-├── analysis.R            # R script with all data cleaning, analysis, and plots
-├── data/                 # (Not included) Folder for raw data CSVs
-└── README.md             # Project overview
+├── analysis.R              # R script with all data cleaning, analysis, and visualizations
+├── data/                   # (Not included) Folder for raw CSV files
+├── README.md               # Project overview and documentation
+└── Cyclistic_Capstone_Presentation.pdf  # (optional) Presentation slide deck
 
 ---
 
@@ -41,16 +42,26 @@ cyclistic_capstone/
 
 ## 📊 Key Insights
 
-- **Members** ride more consistently during weekdays (commute pattern)
-- **Casual riders** ride more often on weekends and take **longer rides** on average
-- Potential to convert casuals to members via weekend or leisure-focused membership campaigns
+- **Members** ride more consistently during weekdays (commute-based behavior)
+- **Casual riders** ride more often on weekends and take **longer trips**
+- Marketing should focus on converting casuals with leisure/weekend-oriented campaigns
 
 ---
 
 ## ✅ Final Output
 
-The final R script includes full cleaning logic, visualizations, and summary statistics.  
-It is fully reproducible using open-source tools.
+- Full code in `analysis.R` is clean reproducable, and version-controlled
+- Visualizations created in `ggplot2` are included in the keynote presentation
+- All work was done using open-source tools on macOs and RStudio Cloud
+
+---
+
+## 🎥 Project Presentation
+
+> View the final project slides:
+- 📄 [Cyclistic Capstone Presentation (PDF)](Cyclistic_Capstone_Presentation.pdf)
+
+(Or upload `Cyclistic_Capstone.key` if you prefer sharing the original Keynote file.)
 
 ---
 
