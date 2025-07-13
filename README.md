@@ -58,10 +58,10 @@ cyclistic_capstone/
 
 ## 🎥 Project Presentation
 
-> View the final project slides:
-- 📄 [Cyclistic Capstone Presentation (PDF)](Cyclistic_Capstone_Presentation.pdf)
+📄 **[Click here to download the presentation (PDF)](Cyclistic_Capstone_Presentation.pdf)**  
+*(Note: GitHub cannot preview this PDF — download to view on your device)*
 
-(Or upload `Cyclistic_Capstone.key` if you prefer sharing the original Keynote file.)
+This PDF includes all key findings, charts, and recommendations from the capstone project.
 
 ---
 
